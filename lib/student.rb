@@ -44,6 +44,7 @@ class Student
 
   def self.create(hash)
 
+    puts''
   end
 
 end
